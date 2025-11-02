@@ -22,4 +22,4 @@ All data is securely transmitted and stored within our CRM or automation systems
 We retain data only as long as necessary to fulfill its intended purpose or comply with applicable regulations.
 
 ## Contact
-If you have any questions about this Privacy Policy, please contact us at **support@yourdomain.com**.
+If you have any questions about this Privacy Policy, please contact us at **flsm360@gmail.com**.
