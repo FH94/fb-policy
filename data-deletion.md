@@ -1,6 +1,6 @@
 # User Data Deletion Instructions
 
-If you have used our application and wish to delete your data collected through Facebook Lead Ads, you can request deletion by emailing us at **flsm360@gmail.com**.
+If you have used our application and wish to delete your data collected through Facebook Lead Ads, you can request deletion by emailing us at **f.ai_sal@yahoo.com**.
 
 Please include:
 - Your full name
